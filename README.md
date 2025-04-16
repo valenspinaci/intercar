@@ -1,23 +1,26 @@
+# 🚗 Intercar Autos
 
-# Intercar
+**Intercar Autos** es uno de mis primeros proyectos frontend, orientado a una empresa del rubro automotor. Fue desarrollado como parte de mi aprendizaje en **HTML**, **CSS** y **JavaScript**, integrando conocimientos adquiridos en un curso de programación.
 
-E-commerce creado para el curso de Javascript de CoderHouse
+Este proyecto marca un paso importante en mi evolución como desarrollador, ya que fue la primera vez que apliqué bases de programación con JavaScript en un sitio real, combinándolas con lo que ya conocía de diseño web.
 
+## 🛠️ Tecnologías utilizadas
 
+- HTML5  
+- CSS3  
+- JavaScript  
+- Flexbox & Grid  
+- Diseño responsive
 
+## 🎯 Objetivos del proyecto
 
-![Logo](https://jobs.coderhouse.com/assets/logos_coderhouse.png)
+- Practicar y consolidar fundamentos de programación con JavaScript.
+- Integrar estructuras dinámicas dentro de un sitio estático.
+- Mejorar el diseño y la experiencia de usuario en dispositivos móviles y de escritorio.
 
+## 📌 Aprendizajes clave
 
-## Stack Utilizado
-Para este proyecto utilicé Javascript, HTML, CSS y Bootstrap
-## 🚀 Acerca de Mi
-Soy un estudiante de Diseño Multimedia en Escuela Da Vinci, de Desarrollo Web Full-Stack en CoderHouse y de la Licenciatura en Gestión de Tecnología de la Información en UADE. Me considero un apasionado por la tecnología y todo lo que la rodea. Tengo 21 años y soy de Carlos Casares, Provincia de Buenos Aires, pero actualmente me encuentro viviendo en CABA para continuar con mis estudios
-
-
-## Mi Stack
-
-**Client:** HTML, CSS, Javascript, React Js
-
-
-
+- Manipulación del DOM.
+- Manejo de eventos en JavaScript.
+- Aplicación de principios de diseño web moderno.
+- Primeros pasos hacia sitios interactivos y funcionales.
